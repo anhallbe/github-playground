@@ -1,0 +1,7 @@
+{
+   "editor.formatOnSave": true,
+   "editor.codeActionsOnSave": {
+      "source.fixAll": true
+   },
+   "terminal.integrated.shell.windows": "powershell.exe"
+}

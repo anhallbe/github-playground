@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "module": "umd",
+        "strict": true,
+        "target": "es5",
+        "outDir": "dist",
+        "removeComments": true,
+        "alwaysStrict": true,
+        "noEmitOnError": true,
+        "plugins": [
+            {
+                "name": "typescript-tslint-plugin"
+            }
+        ]
+    },
+    "include": [
+        "src/*"
+    ]
+}

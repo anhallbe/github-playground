@@ -1,0 +1,25 @@
+{
+  "name": "github-playground",
+  "version": "0.0.1-alpha",
+  "description": "Playing around with GitHub releases and stuff",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhallbe/github-playground.git"
+  },
+  "bin": {
+    "github-playground": "./dist/cli.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/anhallbe/github-playground/issues"
+  },
+  "homepage": "https://github.com/anhallbe/github-playground#readme",
+  "devDependencies": {
+    "@types/node": "^11.9.4",
+    "typescript-tslint-plugin": "^0.3.1"
+  }
+}

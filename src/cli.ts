@@ -2,4 +2,4 @@
 
 import { Logger } from "./logger";
 
-Logger.log("Hello Github Playground!");
+Logger.log("Hello Github Playground Alpha 2!");

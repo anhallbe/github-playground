@@ -1,6 +1,6 @@
 {
   "name": "github-playground",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1-alpha.2",
   "description": "Playing around with GitHub releases and stuff",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -11,5 +11,5 @@
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     var logger_1 = require("./logger");
-    logger_1.Logger.log("Hello Github Playground!");
+    logger_1.Logger.log("Hello Github Playground Alpha 2!");
 });
